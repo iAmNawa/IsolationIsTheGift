@@ -1,0 +1,9 @@
+{
+  "name": "isolationisthegift.com",
+  "description": "isolation is the gift",
+  "dependencies": {
+    "body-parser": "",
+    "compression": "",
+    "express": "",
+  }
+}
