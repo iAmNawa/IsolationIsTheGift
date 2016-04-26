@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+}
+
+#container {
+  text-align: center;
+  padding-top: 30%;
+}
+
+#h-one, #h-two, #h-three {
+  color: white;
+  font-size: 50px;
+}
