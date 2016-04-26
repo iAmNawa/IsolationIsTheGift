@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: #1b2800;
 }
 
 #container {
@@ -9,13 +9,37 @@ body {
   height: 100%;
 }
 
-#h_one, #h_two, #h_three {
-  color: white;
+#h_one, #h_three {
+  color: #4f691b;
   font-size: 50px;
-  font-family: 'Corben', cursive;
+  font-family: 'Cinzel Decorative', cursive;
   font-weight: bold;
+  text-shadow: 2px 2px 1px #002300;
 }
 
-#h_one {
-  text
+a {
+  text-decoration: none;
+  color: #4f691b;
+  font-family: verdana;
+  font-size: 30px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #4f691b;
+  border-radius: 5px;
+  font-family: 'Cinzel Decorative', cursive;
+}
+
+a:hover {
+  color: white;
+  border-color: white;
+  transition: all 1s;
+}
+
+@media screen and (max-width: 480px) {
+    #h_one, #h_three {
+        font-size: 30px;
+    }
+    a {
+      font-size: 20px;
+    }
 }
