@@ -4,6 +4,6 @@
   "dependencies": {
     "body-parser": "",
     "compression": "",
-    "express": "",
+    "express": ""
   }
 }
