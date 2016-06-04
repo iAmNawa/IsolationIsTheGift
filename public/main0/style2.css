@@ -1,0 +1,42 @@
+body {
+  background-color: #1b2800;
+  color: #4f691b;
+  font-family: 'Cinzel Decorative', cursive;
+}
+#heading {
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Cinzel Decorative', cursive;
+  text-shadow: 1px 1px 1px #002300;
+}
+
+span {
+  display: inline-block;
+}
+
+#ifYou {
+  padding-top: 100px;
+  text-align: center;
+  font-size: 50px;
+    text-shadow: 1px 1px 1px #002300;
+}
+
+#para {
+  font-size: 20px;
+  text-shadow: 1px 1px 1px #002300;
+}
+
+#video {
+  text-align: center;
+}
+
+iframe {
+  border-radius: 5px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: white;
+}
+
+#bottom {
+  text-align: center;
+}
